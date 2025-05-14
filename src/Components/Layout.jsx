@@ -8,6 +8,7 @@ import data from "../Recipes.json";
 
 const Layout = () => {
   const [recipes, setRecipes] = useState([]);
+  // console.log(object);
   
   useEffect(() => {
     setRecipes(data);
