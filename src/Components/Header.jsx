@@ -7,7 +7,7 @@ const Header = () => {
       <header className='bg-black'>
         <div className='h-20 flex justify-center gap-290'>
           <div>
-            <img className='h-15 mt-2' src="public/bg1.png" alt="" />
+            <img className='h-15 mt-2' src="/bg1.png" alt="" />
           </div>
           <div className=''>
             <ul className='flex text-white gap-10 mt-3'>
